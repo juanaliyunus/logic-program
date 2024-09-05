@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "piramida", "piramida", "{424D6A81-30FB-4E24-9E5F-A35102944250}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiramidaApp", "piramida\PiramidaApp\PiramidaApp.csproj", "{8E82D4EC-892B-4AE3-B998-80D5F826CD49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E82D4EC-892B-4AE3-B998-80D5F826CD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E82D4EC-892B-4AE3-B998-80D5F826CD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E82D4EC-892B-4AE3-B998-80D5F826CD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E82D4EC-892B-4AE3-B998-80D5F826CD49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E82D4EC-892B-4AE3-B998-80D5F826CD49} = {424D6A81-30FB-4E24-9E5F-A35102944250}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6801C412-8A15-4DA9-9DFB-EC495A1A0B0C}
+	EndGlobalSection
+EndGlobal

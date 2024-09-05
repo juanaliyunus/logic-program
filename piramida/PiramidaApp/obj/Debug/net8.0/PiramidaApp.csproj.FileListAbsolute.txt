@@ -1,0 +1,14 @@
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/obj/Debug/net8.0/PiramidaApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/obj/Debug/net8.0/PiramidaApp.AssemblyInfoInputs.cache
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/obj/Debug/net8.0/PiramidaApp.AssemblyInfo.cs
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/obj/Debug/net8.0/PiramidaApp.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/bin/Debug/net8.0/PiramidaApp
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/bin/Debug/net8.0/PiramidaApp.deps.json
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/bin/Debug/net8.0/PiramidaApp.runtimeconfig.json
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/bin/Debug/net8.0/PiramidaApp.dll
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/bin/Debug/net8.0/PiramidaApp.pdb
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/obj/Debug/net8.0/PiramidaApp.dll
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/obj/Debug/net8.0/refint/PiramidaApp.dll
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/obj/Debug/net8.0/PiramidaApp.pdb
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/obj/Debug/net8.0/PiramidaApp.genruntimeconfig.cache
+/home/enigma/Documents/programming-language/logika-dasar/piramida/PiramidaApp/obj/Debug/net8.0/ref/PiramidaApp.dll
